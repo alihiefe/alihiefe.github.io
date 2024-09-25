@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://alihiefe.github.io/sitemap/sitemap_index.txt.gz
